@@ -1,0 +1,15 @@
+{
+  "name": "quickbite-js",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive food ordering CLI to practice JavaScript functions, custom array methods, closures, callbacks, Promises and timers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
